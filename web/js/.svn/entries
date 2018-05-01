@@ -1,0 +1,68 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/js
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+fckconfig.js
+file
+
+
+
+
+2008-07-14T23:48:58.000000Z
+aad98c86def73bf9ed113a3a7d31c43d
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+fckeditor.js
+file
+
+
+
+
+2008-08-14T11:59:34.000000Z
+08fff34dc8cede5aeeacd7181745069f
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+dhtmlgoodies_calendar.js
+file
+
+
+
+
+2007-06-16T08:07:34.000000Z
+3405899391fb3f0329c46bb8fe15e78c
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+clientside.js
+file
+
+
+
+
+2009-10-23T22:50:42.000000Z
+b4ef9baa97a3d1dc73915464bf974341
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

@@ -1,0 +1,45 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/dialog/common
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+fck_dialog_common.css
+file
+
+
+
+
+2008-02-24T15:01:58.000000Z
+2287d4fed53cd7632f96566ff2160e3e
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+images
+dir
+
+fck_dialog_common.js
+file
+
+
+
+
+2008-06-12T05:39:16.000000Z
+2341d0ae9d63666fbe01469582068419
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

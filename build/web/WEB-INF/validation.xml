@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!DOCTYPE form-validation PUBLIC
+          "-//Apache Software Foundation//DTD Commons Validator Rules Configuration 1.1.3//EN"
+          "http://jakarta.apache.org/commons/dtds/validator_1_1_3.dtd">
+
+<form-validation>
+
+<!--
+     This is a minimal Validator form file with a couple of examples.
+-->
+
+    <global>
+
+        <!-- An example global constant
+        <constant>
+            <constant-name>postalCode</constant-name>
+            <constant-value>^\d{5}\d*$</constant-value>
+        </constant>
+        end example-->
+
+    </global>
+    
+    <formset>
+
+        <form name="UserLoginForm">
+            <field
+                property="username"
+                depends="required">
+                    <arg key="StudentLoggingWithTemplateForm.username" position="0"/>
+            </field>
+            <field
+                property="password"
+                depends="required,mask">
+                    <arg key="StudentLoggingWithTemplateForm.password" position="0"/>
+                    <var>
+                        <var-name>mask</var-name>
+                        <var-value>^[0-9a-zA-Z]*$</var-value>
+                    </var>
+            </field>
+        </form>
+        <form name="EditAdminForm">
+            <field
+                property="login"
+                depends="required">
+                    <arg key="EditAdminForm.username" position="0"/>
+            </field>
+            <field
+                property="password"
+                depends="required,mask">
+                    <arg key="EditAdminForm.password" position="0"/>
+                    <var>
+                        <var-name>mask</var-name>
+                        <var-value>^[0-9a-zA-Z]*$</var-value>
+                    </var>
+            </field>
+            <field
+                property="password2"
+                depends="required,mask">
+                    <arg key="EditAdminForm.password2" position="0"/>
+                    <var>
+                        <var-name>mask</var-name>
+                        <var-value>^[0-9a-zA-Z]*$</var-value>
+                    </var>
+            </field>
+            <field
+                property="email"
+                depends="required,email">
+                    <arg key="EditAdminForm.email" position="0"/>
+            </field>
+            <field
+                property="selectedCoursesIDs"
+                depends="required">
+                    <arg key="EditAdminForm.courses" position="0"/>
+            </field>
+        </form>
+        <form name="EditCourseForm">
+            <field
+                property="name"
+                depends="required">
+                    <arg key="EditCourseForm.name" position="0"/>
+            </field>
+        </form>
+        <form name="EditAssignmentForm">
+            <field
+                property="title"
+                depends="required">
+                    <arg key="EditAssignmentForm.title" position="0"/>
+            </field>
+            <field
+                property="start"
+                depends="">
+                    <!--<arg key="EditAssignmentForm.start" position="0"/>-->
+            </field>
+            <field
+                property="end"
+                depends="required">
+                    <arg key="EditAssignmentForm.end" position="0"/>
+            </field>
+            <field
+                property="nes"
+                depends="required,integer">
+                    <arg key="EditAssignmentForm.nes" position="0"/>
+            </field>
+        </form>
+        <form name="EditTextForm">
+            
+            <field
+                property="submitname"
+                depends="required">
+                    <arg key="EditTextForm.submitname" position="0"/>
+            </field>
+            <field
+                property="timeout"
+                depends="required,integer">
+                    <arg key="EditTextForm.timeout" position="0"/>
+            </field>
+        </form>
+        <form name="SearchStudForm">
+            <field
+                property="matricola"
+                depends="integer">
+                    <arg key="SearchStudForm.matricola" position="0"/>
+            </field>
+            <field
+                property="selectedCourseID"
+                depends="required">
+                    <arg key="SearchStudForm.selectedCourseID" position="0"/>
+            </field>
+        </form>
+        <form name="EditLanguageForm">
+            <field
+                property="ext"
+                depends="required">
+                    <arg key="EditLangForm.ext" position="0"/>
+            </field>
+            <field
+                property="testcasename"
+                depends="required">
+                    <arg key="EditLangForm.testcasename" position="0"/>
+            </field>
+            <field
+                property="dir"
+                depends="required">
+                    <arg key="EditLangForm.dir" position="0"/>
+            </field>
+        </form>        
+        <form name="CorrectPseudoForm">
+            <field
+                property="ok"
+                depends="required">
+                    <arg key="CorrectPseudoForm.ok" position="0"/>
+            </field>
+        </form>         
+        <form name="AddManualTestErrorForm">
+            <field
+                property="ok"
+                depends="required">
+                    <arg key="AddManualTestErrorForm.ok" position="0"/>
+            </field>
+            <field
+                property="cause"
+                depends="validwhen">
+                    <arg key="AddManualTestErrorForm.cause" position="0"/>
+                    <var>
+                      <var-name>test</var-name>
+                      <var-value>(((ok == "false") and (*this* != null)) or ( (ok == "true") and (*this* == null) ))</var-value>
+                    </var>
+            </field>
+        </form>        
+    </formset>
+
+</form-validation>

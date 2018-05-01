@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model
+END
+Course.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Course.java
+END
+CodeAnalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/CodeAnalizer.java
+END
+JavaCodeAnalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/JavaCodeAnalizer.java
+END
+Result.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Result.hbm.xml
+END
+Formatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Formatter.java
+END
+JavaFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/JavaFormatter.java
+END
+AcademicYear.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/AcademicYear.java
+END
+Language.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Language.hbm.xml
+END
+Assignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Assignment.java
+END
+Text.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Text.hbm.xml
+END
+Student.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Student.hbm.xml
+END
+AuxiliarySourceFile.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/AuxiliarySourceFile.hbm.xml
+END
+Admin.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Admin.hbm.xml
+END
+Permission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Permission.hbm.xml
+END
+CeeCodeAnalizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/CeeCodeAnalizer.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Result.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/User.java
+END
+Submission.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Submission.hbm.xml
+END
+CeeFormatter.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/CeeFormatter.java
+END
+Language.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Language.java
+END
+Course.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Course.hbm.xml
+END
+Text.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Text.java
+END
+Student.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Student.java
+END
+AuxiliarySourceFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/AuxiliarySourceFile.java
+END
+Admin.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Admin.java
+END
+Permission.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Permission.java
+END
+AcademicYear.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/AcademicYear.hbm.xml
+END
+Submission.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Submission.java
+END
+Assignment.hbm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/model/Assignment.hbm.xml
+END

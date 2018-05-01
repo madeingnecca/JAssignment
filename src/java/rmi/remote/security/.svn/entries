@@ -1,0 +1,42 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/src/java/rmi/remote/security
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+JAssignmentSecurityManager.java
+file
+
+
+
+
+2009-03-16T21:35:30.000000Z
+0df3e160802283a013fed1162975f6c4
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+JAssignmentSecurityException.java
+file
+
+
+
+
+2008-11-17T18:45:52.000000Z
+41655186c25229d1133183bb79ec364d
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

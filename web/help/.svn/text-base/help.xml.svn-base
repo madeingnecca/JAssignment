@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<help>
+    <page type="0" id="4" title="Consegna di un sotto-esercizio">
+        <pagehelp type="img">
+            images/consegnahelp.gif
+        </pagehelp>
+    </page>
+    <page type="1" id="4" title="Modifica di un sotto esercizio">
+        <pagehelp type="txt">
+            <![CDATA[
+            <ul>
+                <li>
+                    <strong>Linguaggio</strong><br />
+                    Linguaggio di programmazione in cui è scritto il file di test, il file consegnato dallo studente e il file sorgenti ausiliari.
+                </li>
+                <li>
+                    <strong>Nome file consegna</strong><br />
+                    Il nome del file (comprensivo di estensione) che conterrà il codice consegnato dallo studente. Attenzione: in caso di codice java, dovrà corrispondere (senza estensione) alla classe pubblica presente nel codice.
+                </li>
+                <li>
+                    <strong>File di test</strong><br />
+                    File che testa il codice dello studente. 
+                </li>
+                <li>
+                    <strong>File esempio di consegna</strong><br />
+                    File di aiuto per lo studente.
+                </li>
+                <li>
+                    <strong>File soluzione</strong><br />
+                    File che verrà reso disponibile ad esercitazione conclusa per mostrare allo studente una delle possibili soluzioni al problema.
+                </li>
+                <li>
+                    <strong>File ausiliari</strong><br />
+                    Il form permette di inserire nuovi file aggiuntivi da rendere disponibili allo studente (come interfacce java, file .h, ecc..)
+                    Un file sorgente può anche non essere un file sorgente, in caso non lo sia, assicurarsi che la voce sorgente non sia spuntata.
+                </li>
+                <li>
+                    <strong>Necessario test manuale</strong><br />
+                    Indica se il test si limiterà solamente a compilare il codice dello studente, e mostrare l'output di esecuzione. 
+                    In caso affermativo il docente dovrà controllare l'output a termine del test e fornire la propria valutazione (positiva/negativa).
+                </li>
+                <li>
+                    <strong>Necessario pseudocodice</strong><br />
+                    Indica se lo studente dovrà accompagnare il codice da informazioni di supporto (come pseudocodice di un algoritmo, calcolo della complessità computazionale, ecc..).
+                </li>
+                <li>
+                    <strong>Timeout esecuzione</strong><br />
+                    Durata massima (in secondi) dell'esecuzione del test automatico (solo esecuzione). 
+                    Se l'esecuzione del test supera tale soglia, il test suppone la presenza di un ciclo infinito e segnala un errore.
+                </li>
+                <li>
+                    <strong>Permessi di esecuzione</strong><br />
+                    Operazioni di \"basso livello\" che possono essere richieste dal codice.
+               </li>
+                <li>
+                    <strong>Testo esercitazione</strong><br />
+                    Descrizione del problema da risolvere, più eventuali indicazioni sulla consegna.
+                </li>
+                
+            </ul>
+            ]]>
+        </pagehelp>
+    </page>
+</help>

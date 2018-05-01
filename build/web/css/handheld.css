@@ -1,0 +1,46 @@
+body {
+	margin: 0px;
+	/* padding = o necessario per opera */
+	padding: 0px;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	/*per scalare sito agire  su questa percentuale */
+	font-size: 80%;
+	width: 100%;
+}
+
+#header, #header_centro, #header_destra, #header_sinistra,
+#path, #path_sinistra, #path_centro,
+#content, #content_sinistra, #content_centro, #content_destra, #content_espanso {
+	width: 100%;
+	float: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+#path_destra {
+	height: 20px;
+	width: 100%;
+}
+
+.box {
+	width: 100%;
+	float: none;
+	margin-left: 0px;
+	margin-right: 0px;
+}
+
+.layer_fisso {
+	width: 100%;
+	float: none;
+	height: auto;
+}
+
+.hidden {
+	display: none;
+}
+
+.box ul, ul, .menulist {
+	list-style: outside disc;
+	padding: 0px;
+	margin: 0px 0px 0px 18px;
+}

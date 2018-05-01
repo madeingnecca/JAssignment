@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+  <session-factory>
+    <property name="hibernate.show_sql">true</property>
+     <property name="hibernate.use_sql_comments">true</property>
+    <!--<property name="hibernate.hbm2ddl.auto">create</property>-->
+    <property name="hibernate.dialect">org.hibernate.dialect.PostgreSQLDialect</property>
+    <property name="hibernate.connection.driver_class">org.postgresql.Driver</property>
+
+    <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/exercises</property>
+    <property name="hibernate.connection.username">consegne</property>
+    <property name="hibernate.connection.password">venice</property>
+
+<!--
+    <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/exercises</property>
+    <property name="hibernate.connection.username">jdbc</property>
+    <property name="hibernate.connection.password">venice</property>
+-->
+    <property name="hibernate.current_session_context_class">thread</property>
+    <!--<property name="hibernate.transaction.factory_class">org.hibernate.transaction.JDBCTransactionFactory</property>-->
+    <mapping class="Language" file="" jar="" package="model" resource="model/Language.hbm.xml"/>
+    <mapping class="Admin" file="" jar="" package="model" resource="model/Admin.hbm.xml"/>
+    <mapping class="Student" file="" jar="" package="model" resource="model/Student.hbm.xml"/>
+    <mapping class="AcademicYear" file="" jar="" package="model" resource="model/AcademicYear.hbm.xml"/>
+    <mapping class="Course" file="" jar="" package="model" resource="model/Course.hbm.xml"/>
+    <mapping class="Assignment" file="" jar="" package="model" resource="model/Assignment.hbm.xml"/>
+    <mapping class="Submission" file="" jar="" package="model" resource="model/Submission.hbm.xml"/>
+    <mapping class="Text" file="" jar="" package="model" resource="model/Text.hbm.xml"/>
+    <mapping class="AuxiliarySourceFile" file="" jar="" package="model" resource="model/AuxiliarySourceFile.hbm.xml"/>
+    <mapping class="Result" file="" jar="" package="model" resource="model/Result.hbm.xml"/>
+    <mapping class="Permission" file="" jar="" package="model" resource="model/Permission.hbm.xml"/>
+    <mapping class="TestError" file="" jar="" package="model.test" resource="model/test/TestError.hbm.xml"/>
+  </session-factory>
+</hibernate-configuration>

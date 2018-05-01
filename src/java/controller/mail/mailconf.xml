@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mailconf>
+    <sender>
+    </sender>
+    <smtp-host>
+        smtp.dsi.unive.it
+    </smtp-host>
+    <smtp-username></smtp-username>
+    <smtp-pass></smtp-pass>
+    <smtp-ssl></smtp-ssl>
+    <updated-assignment>
+        <subject>
+           Importante: Esercitazione modificata
+        </subject>
+        <content>
+            <![CDATA[
+           <html><body> 
+           Gentile Studente/essa<br/>
+           ti avvisiamo che l'esercitazione "{0}" del corso "{1}" e' stata modificata:<br/>
+           
+           Numero esercizi: <b>{2}</b><br/>
+           Scadenza: <b>{3}</b><br/>
+           <br/>
+           ti consigliamo percio' di effettuare le dovute modifiche al codice da te consegnato.
+           <br/>
+           saluti<br/>
+           
+           Il tutor
+           </body></html>
+           ]]>
+        </content>
+    </updated-assignment>
+    <updated-text>
+        <subject>
+            Importante: Testo modificato
+        </subject>
+        <content>
+            <![CDATA[
+           <html><body> 
+           Gentile Studente/essa<br/>
+           ti avvisiamo che un'esercitazione ha subito modifiche:<br />
+           
+           Corso: {0}<br />
+           Esercitazione: {1}<br />
+           Sottoesercizio: {2}<br />
+           
+           Testo:<br />
+           {3}
+           <br/>
+           ti consigliamo percio' di effettuare le dovute modifiche al codice da te consegnato.
+           <br/>
+           saluti<br/>
+           
+           Il tutor
+           </body></html>
+           ]]>
+        </content>
+    </updated-text>
+    <new-pass-admin>
+        <subject>
+            Importante: nuova password
+        </subject>
+        <content>
+            <![CDATA[
+           <html><body> 
+           Gentile Professor/Tutor<br/>
+           ti avvisiamo che la tua password per l'accesso all'applicazione per la consegna delle esercitazioni e' stata modificata.
+           <br/><br/>
+           la nuova password e':
+           <br/><br/>
+           <b>{0}</b>
+           <br/><br/>
+           saluti<br/>
+           
+           Il centro di calcolo
+           </body></html>
+           ]]>
+        </content>        
+    </new-pass-admin>
+</mailconf>

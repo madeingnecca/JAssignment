@@ -1,0 +1,28 @@
+#header_sinistra {
+	background-color: #000000;  
+}
+
+#header {
+	background-color: #303030;  
+}
+
+#foot, #path{
+	background-color:#9a0040;
+}
+
+#path_destra { 
+	vertical-align: middle;
+	line-height: 20px;
+	color: #FFFFFF;
+	font-weight: bold;
+	vertical-align: middle;
+}
+
+#path_destra img {
+	 vertical-align: middle;
+	 border: 0px;
+}
+
+#content_centro {
+    width:75%;
+}

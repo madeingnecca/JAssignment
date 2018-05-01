@@ -1,0 +1,41 @@
+/* contenuto */
+#content {
+	background-color: #e8e8e8; 
+	font-size: 100%;
+	color:#000000;
+}
+
+#content_sinistra{
+/*	font-size:110%; */
+	float: left;
+	width: 25%;
+	min-width: 200px;
+	line-height: 140%; 
+}
+
+#logo_sinistra {
+	height: 70px;
+}
+
+#content_centro{
+	float: left;
+	width: 50%;
+	margin-right: -1px;
+	min-width: 200px;
+}
+
+#content_espanso{
+	float: left;
+	width: 75%;
+	margin-right: -1px;
+	min-width: 200px;
+}
+
+
+#content_destra{
+	float: left;
+	width: 25%;
+	min-width: 200px;
+	font-size: 85%; 
+}
+

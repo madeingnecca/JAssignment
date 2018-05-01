@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="model">
+  <class name="Course" table="courses">
+    <id column="id" name="id" type="java.lang.Integer">
+      <generator class="sequence"/>
+    </id>
+    <property column="name" name="name" type="java.lang.String"/>
+    <bag cascade="all" inverse="true" name="assignments" order-by="deadline desc">
+      <key column="course"/>
+      <one-to-many class="Assignment"/>
+    </bag>
+    <many-to-one column="aa" name="academicYear" not-null="true"/>
+  </class>
+</hibernate-mapping>

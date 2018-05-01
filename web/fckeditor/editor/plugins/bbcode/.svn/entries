@@ -1,0 +1,32 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/plugins/bbcode
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+_sample
+dir
+
+fckplugin.js
+file
+
+
+
+
+2008-02-19T17:24:14.000000Z
+dd2a154b0c9ab078e9e6e93194c413b6
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

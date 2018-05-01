@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/controller/auth/kerberos
+END
+jaas.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/controller/auth/kerberos/jaas.conf
+END
+LoginCallbackHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/consegne/!svn/ver/3/JAssignment3/src/java/controller/auth/kerberos/LoginCallbackHandler.java
+END

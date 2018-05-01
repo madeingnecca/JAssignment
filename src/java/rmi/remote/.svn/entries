@@ -1,0 +1,71 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/src/java/rmi/remote
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+FakeServer2.java
+file
+
+
+
+
+2008-12-07T18:29:20.000000Z
+9f5fee81e14bb512343dbbc525f9916b
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+ExecTestProcess.java
+file
+
+
+
+
+2009-04-05T12:13:38.000000Z
+3efe130dc355efc8b44ce4120524f202
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+security
+dir
+
+ExecThread.java
+file
+
+
+
+
+2009-03-30T11:38:56.000000Z
+4374b6d435154710addb39aac6e7857a
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+FakeServer.java
+file
+
+
+
+
+2008-12-07T18:29:08.000000Z
+ca07661fb80a20e43c9fe12977dd7796
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

@@ -1,0 +1,55 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/help/images
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+consegnahelp.gif
+file
+
+
+
+
+2008-12-04T23:43:46.000000Z
+b32f404eb760828db7d0670168b6f6f2
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+help1.GIF
+file
+
+
+
+
+2008-09-18T07:50:16.000000Z
+91bc7edb3fd489ce5fa99eff627ef8b6
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+help2.GIF
+file
+
+
+
+
+2008-09-18T07:50:16.000000Z
+6b86526906633b3111a61963cf855eed
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

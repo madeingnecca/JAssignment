@@ -1,0 +1,42 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/filemanager/browser/default/js
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+fckxml.js
+file
+
+
+
+
+2008-06-23T14:22:24.000000Z
+3b34bb14c99733c328de7967bc558623
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+common.js
+file
+
+
+
+
+2008-06-23T14:22:24.000000Z
+cf81ed7a0668e5eb3b9135bf7eb65b9a
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

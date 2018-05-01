@@ -1,0 +1,55 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/filemanager/connectors/aspx
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+config.ascx
+file
+
+
+
+
+2008-03-26T11:41:48.000000Z
+70280c8f8aeec5c73c503460a793ab92
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+connector.aspx
+file
+
+
+
+
+2008-02-19T17:24:10.000000Z
+ffe74f488305c63b0cf4afc6c58c17fd
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+upload.aspx
+file
+
+
+
+
+2008-02-19T17:24:10.000000Z
+00f828656ba1f2b9fa32dc21e0536645
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

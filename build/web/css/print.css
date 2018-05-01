@@ -1,0 +1,58 @@
+body {
+	margin: 0px;
+	/* padding = o necessario per opera */
+	padding: 0px;
+	font-family:Arial, Helvetica, sans-serif;
+	/*per scalare sito agire  su questa percentuale */
+	font-size: 80%;
+	width: 100%;
+}
+
+#header_centro, #header_destra, #foot, #content_destra, #content_sinistra, #path_centro, #path_destra {
+	display: none;
+}
+
+.col_finecolonna, #path {
+	clear:none;
+}
+
+.col_finecolonna {
+	display: none;
+	float: none;
+}
+
+#header, #path  {
+	width: 100%;
+	background-color:#FFFFFF;
+}
+
+#header_sinistra, #path_sinistra {
+	width: 100%;
+	background-color: #FFFFFF;
+	color:#000000;
+}
+
+#content, #content_centro, #content_espanso, .box{
+	width: 100%;
+	float: none;
+	background-color:#FFFFFF;
+	height: auto;
+}
+
+#foot_modifica {
+	border-top: 1px solid #000000;
+	width: 100%;
+	background-color: #FFFFFF;
+	color:#000000;
+}
+
+h1, .box h1 {
+	font-size: 120%;
+	font-weight:bold;
+	border: 2px solid #000000;
+}
+
+h2 {
+	font-size: 100%;
+	font-weight:bold;
+}

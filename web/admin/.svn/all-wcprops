@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/consegne/!svn/ver/3/JAssignment3/web/admin
+END
+index.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/consegne/!svn/ver/3/JAssignment3/web/admin/index.jsp
+END
+logged-admin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/consegne/!svn/ver/3/JAssignment3/web/admin/logged-admin.jsp
+END
+login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/consegne/!svn/ver/3/JAssignment3/web/admin/login.jsp
+END
+auxFileUploadPage.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/consegne/!svn/ver/3/JAssignment3/web/admin/auxFileUploadPage.jsp
+END
+uploadAuxFileResult.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/consegne/!svn/ver/3/JAssignment3/web/admin/uploadAuxFileResult.jsp
+END

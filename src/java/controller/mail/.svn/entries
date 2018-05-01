@@ -1,0 +1,42 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/src/java/controller/mail
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+mailconf.xml
+file
+
+
+
+
+2009-01-07T12:09:44.000000Z
+f2e8be42b985c035427c55d0e69ed929
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+EmailSender.java
+file
+
+
+
+
+2009-03-24T21:19:20.000000Z
+6e0817fda8c9c6ef25451818229fcf01
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

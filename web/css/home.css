@@ -1,0 +1,43 @@
+.layer_fisso {
+	height: auto;
+        min-height:442px;
+}
+
+#mappa {
+	position:absolute;
+	overflow:hidden;
+	text-align:center;
+	bottom: 10px;
+}
+
+ul.lista2col {
+	list-style-type: none; 
+	margin: 0px;
+	padding: 0px;
+}
+
+.lista2col li {
+	display: inline;
+	float: left;
+	width: 40%;
+	margin-left: 4px;
+}
+
+.banda_avviso {
+	width: 100%;
+	background-color:#ff9933;
+	color:#000000;
+	padding: 6px 0px;
+}
+
+.banda_avviso h2 {
+	border-bottom:none;
+	margin: 0px 4px;
+}
+
+.banda_avviso p {
+	border-bottom:none;
+	margin: 4px;
+}
+
+

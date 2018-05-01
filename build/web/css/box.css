@@ -1,0 +1,111 @@
+.box {
+	margin: 16px 16px 0px 0px;
+	background-color:#FFFFFF;
+	position: relative;
+	display: block;
+}
+
+.box h1 {
+	line-height: normal;
+	font-size: 115%;
+	font-weight: bold;
+	background-color: #000000;
+	padding: 0px 4px;
+	color: #FFFFFF;
+	margin: 0px
+}
+
+
+.allungato {
+	min-height: 442px;
+	height: auto !important;
+	height: 442px;
+}
+
+.box hr {
+	border: 0px;
+	color: #000000; 
+	background-color: #000000;
+	height: 1px;
+	margin-left: 3px;
+	margin-right: 3px;
+}
+
+.chiaro h1 {
+	background-color: #9a0040;
+}
+
+.avviso {
+	background-color:#ff9933;	
+}
+
+.avviso h1 {
+	background-color: #000000;
+}
+
+.avviso a {
+	color:#000000;
+}
+
+.evidenza {
+	background-color: #9a0040;
+	color: #000000;
+}
+
+.evidenza h1 {
+	background-color:#000000;
+}
+
+.evidenza a {
+	color: #FFFFFF;
+}
+
+.scuro {
+	background-color: #808080;
+	color: #FFFFFF;
+}
+
+.scuro h1 {
+	background-color:#000000;
+}
+
+.scuro a {
+	color:#FFFFFF;
+}
+
+/* Componenti dei box */
+.box h2 {
+	font-size: 120%;
+	font-weight:bold;
+	border-bottom: 1px #000000 solid;
+	margin: 4px 2px 5px 2px;
+	color:#000000;
+}
+
+.box h3 {
+	font-size: 100%;
+	font-weight:bold;
+	margin: 4px 2px 0px 2px;
+	color:#000000;
+}
+
+.box p {
+	margin: 3px; 
+}
+
+.box .menulist {
+	margin: 3px;
+	list-style-type: none;
+	list-style-image: url(../images/arrow9.gif); 
+	list-style-position: outside;
+	padding-left: 1.6em;
+	padding-bottom: 0.4em;
+}
+
+.scuro .menulist, .evidenza .menulist {
+ 	list-style-image: url(../images/arrow9_bianca.gif); 
+}
+
+.avviso .menulist {
+	list-style-image: url(../images/arrow9_nera.gif); 
+} 

@@ -1,0 +1,55 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/dialog/fck_template/images
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+template1.gif
+file
+
+
+
+
+2008-08-05T05:40:32.000000Z
+fc667c4366fe133c30ab122fe2ee7f20
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+template2.gif
+file
+
+
+
+
+2008-08-05T05:40:32.000000Z
+8a4d45166ebeef73e222270a8113d66f
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+
+template3.gif
+file
+
+
+
+
+2008-08-05T05:40:32.000000Z
+b8650f06582ac88ece68948bac1bf734
+2009-10-24T09:59:52.028683Z
+3
+dseno
+has-props
+

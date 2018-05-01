@@ -1,0 +1,34 @@
+8
+
+dir
+3
+https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/plugins
+https://projects.dsi.unive.it/svn/consegne
+
+
+
+2009-10-24T09:59:52.028683Z
+3
+dseno
+
+
+svn:special svn:externals svn:needs-lock
+
+placeholder
+dir
+
+dragresizetable
+dir
+
+autogrow
+dir
+
+tablecommands
+dir
+
+simplecommands
+dir
+
+bbcode
+dir
+

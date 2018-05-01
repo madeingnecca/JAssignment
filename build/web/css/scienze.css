@@ -1,0 +1,9 @@
+#content_centro .layer_fisso {
+	background-image: url(http://www.unive.it/media/headers/scienze.gif);
+	background-repeat:no-repeat;
+	background-position:bottom right;
+}
+
+#header, #content_sinistra h1,  #content_centro h1,  #content_espanso h1{
+	background-color: #625c1e; 
+}

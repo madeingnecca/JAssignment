@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="model">
+  <class name="AuxiliarySourceFile" table="auxiliarysourcefile">
+    <id column="id" name="id" type="java.lang.Integer">
+      <generator class="sequence"/>
+    </id>
+    <property column="source" name="source" type="java.lang.Boolean"/>
+    <property column="filename" name="filename" type="java.lang.String"/>
+    <property column="code" name="code" type="java.lang.String"/>
+    <set cascade="all" inverse="true" name="texts" table="texts_auxsrcs">
+      <key>
+        <column name="idsrc"/>
+      </key>
+      <many-to-many class="Text">
+        <column name="assignment"/>
+        <column name="ordinal"/>
+      </many-to-many>
+    </set>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping package="model">
+  <class name="Text" table="assignmentstexts">
+    <composite-id>
+      <key-many-to-one class="Assignment" column="assignment" name="assignment"/>
+      <key-property column="ordinal" name="ordinal"/>
+    </composite-id>
+    <property column="text" insert="false" name="text" type="java.lang.String"/>
+    <property column="testcase" name="testcase" type="java.lang.String"/>
+    <property column="submitfilename" name="submitFileName" type="java.lang.String"/>
+    <property column="pseudocode" name="pseudocodeRequested" type="java.lang.Boolean"/>
+    <property column="humanneeded" name="humanNeeded" type="java.lang.Boolean"/>
+    <property column="timeout" name="timeout" type="java.lang.Integer"/>
+    <property column="examplefile" name="examplefile" type="java.lang.String"/>
+    <property column="solution" name="solution" type="java.lang.String"/>
+    <bag cascade="save-update" inverse="true" name="submissions">
+      <key>
+        <column name="assignment"/>
+        <column name="exercisenumber"/>
+      </key>
+      <one-to-many class="Submission"/>
+    </bag>
+    <many-to-one column="language" name="language" not-null="true"/>
+    <set cascade="all" name="auxfiles" table="texts_auxsrcs">
+      <key>
+        <column name="assignment"/>
+        <column name="ordinal"/>
+      </key>
+      <many-to-many class="AuxiliarySourceFile" column="idsrc"/>
+    </set>
+    <map cascade="all" name="permissions" table="permissions">
+      <key not-null="true">
+        <column name="assignment"/>
+        <column name="exercisenumber"/>
+      </key>
+      <index column="type" type="java.lang.Integer"/>
+      <one-to-many class="Permission"/>
+    </map>
+  </class>
+</hibernate-mapping>
