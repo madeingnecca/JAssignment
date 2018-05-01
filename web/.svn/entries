@@ -1,82 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/web
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-META-INF
-dir
-
-index.jsp
-file
-
-
-
-
-2008-07-24T05:16:52.000000Z
-fbc16d3c82b91e05e3c37e64e70c162d
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-login.jsp
-file
-
-
-
-
-2008-12-23T13:49:26.000000Z
-47df51a05eb1ef30a09a7172b2079e01
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-images
-dir
-
-WEB-INF
-dir
-
-admin
-dir
-
-css
-dir
-
-help
-dir
-
-applets
-dir
-
-logged-stud.jsp
-file
-
-
-
-
-2008-08-04T05:01:02.000000Z
-af7999e29cc490adf090c38cc6f04b17
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-fckeditor
-dir
-
-js
-dir
-

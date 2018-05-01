@@ -1,38 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor/skins
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-office2003
-dir
-
-silver
-dir
-
-default
-dir
-
-_fckviewstrips.html
-file
-
-
-
-
-2008-02-19T17:24:14.000000Z
-3ca2059f8c04e00ef495ef2648593612
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-

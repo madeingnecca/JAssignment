@@ -1,98 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/fckeditor/editor
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-dialog
-dir
-
-_source
-dir
-
-fckeditor.original.html
-file
-
-
-
-
-2008-08-05T05:40:36.000000Z
-fb1afa94d1fda8297734eddab4fc5d64
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-lang
-dir
-
-plugins
-dir
-
-images
-dir
-
-fckdialog.html
-file
-
-
-
-
-2008-06-10T04:12:56.000000Z
-9a1623ba4978d0792d8a12222f5730ee
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-skins
-dir
-
-css
-dir
-
-filemanager
-dir
-
-dtd
-dir
-
-js
-dir
-
-fckdebug.html
-file
-
-
-
-
-2008-02-19T17:24:08.000000Z
-8e73e96b68ba16a5ed47b6954a52a313
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-fckeditor.html
-file
-
-
-
-
-2008-07-25T01:41:12.000000Z
-97bec51be61d041c616650fe4af6439d
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-

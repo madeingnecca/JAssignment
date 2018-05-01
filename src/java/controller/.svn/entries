@@ -1,70 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/src/java/controller
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-actions
-dir
-
-auth
-dir
-
-mail
-dir
-
-servlets
-dir
-
-threads
-dir
-
-ProvaHib.java
-file
-
-
-
-
-2008-11-17T20:37:20.000000Z
-819a5c23b750aefb649b9c6c08c21564
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-ProvaDAO.java
-file
-
-
-
-
-2009-04-05T13:30:18.000000Z
-2cf51bc6b0341d37090e0ad85ad1f5c8
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-Constants.java
-file
-
-
-
-
-2008-11-13T22:18:20.000000Z
-90e10bea87ca2e0418b44780ddbd6cd8
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-

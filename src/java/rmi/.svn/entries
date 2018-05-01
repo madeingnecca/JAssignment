@@ -1,45 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/src/java/rmi
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-RemoteTester.java
-file
-
-
-
-
-2008-11-17T22:00:22.000000Z
-71b16b04ceedf1c22accb6d65881747a
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-RMIClient.java
-file
-
-
-
-
-2008-12-07T18:19:06.000000Z
-e92ecd0c428552ccdc9f1865a517fb0d
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-remote
-dir
-

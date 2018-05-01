@@ -1,108 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/src/java
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-test
-dir
-
-ApplicationResource_en_US.properties
-file
-
-
-
-
-2009-03-04T18:02:38.000000Z
-ccf23fff5f0f2ac444bf95f5c1bbbd15
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-model
-dir
-
-controller
-dir
-
-dao
-dir
-
-ctests
-dir
-
-fckeditor.properties
-file
-
-
-
-
-2008-08-14T15:22:58.000000Z
-24ee0e7cebeaec49ecfaf75213610367
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-languages
-dir
-
-ApplicationResource.properties
-file
-
-
-
-
-2009-01-07T17:16:44.000000Z
-570f960a23c88784c06ab09cdb39924a
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-rmi
-dir
-
-tag
-dir
-
-util
-dir
-
-hibernate.cfg.xml
-file
-
-
-
-
-2009-10-23T21:11:36.000000Z
-58799ef91cd37cd3f153f2aa362bc8b6
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-ApplicationResource_it_IT.properties
-file
-
-
-
-
-2009-03-04T18:02:54.000000Z
-ccf23fff5f0f2ac444bf95f5c1bbbd15
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-

@@ -1,96 +1,0 @@
-8
-
-dir
-3
-https://projects.dsi.unive.it/svn/consegne/JAssignment3/web/WEB-INF
-https://projects.dsi.unive.it/svn/consegne
-
-
-
-2009-10-24T09:59:52.028683Z
-3
-dseno
-
-
-svn:special svn:externals svn:needs-lock
-
-layouts
-dir
-
-includes
-dir
-
-regions
-dir
-
-tlds
-dir
-
-struts-config.xml
-file
-
-
-
-
-2009-03-04T17:35:22.000000Z
-743fcfe99516261f72885a77cf2a52e0
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-wsdl
-dir
-
-validation.xml
-file
-
-
-
-
-2009-03-24T20:38:36.000000Z
-fb2be1f904dea90f871501ac5418048f
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-validator-rules.xml
-file
-
-
-
-
-2008-07-19T09:24:28.000000Z
-03ac22e63e33ad1154124cca54d7e293
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-web.xml
-file
-
-
-
-
-2009-10-24T09:47:34.000000Z
-b07d57147df471473247d8bb7cf47bce
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
-tiles-defs.xml
-file
-
-
-
-
-2008-07-14T08:49:28.000000Z
-d5a9a8cff4dc5b08f501becf1bb83246
-2009-10-24T09:59:52.028683Z
-3
-dseno
-has-props
-
